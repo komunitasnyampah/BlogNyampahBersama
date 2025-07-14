@@ -5,9 +5,5 @@
       "rootDirectory": "Ujung depan",
       "framework": "nextjs"
     }
-    // Jika Anda ingin deploy backend API sebagai serverless functions Vercel,
-    // Anda harus mengintegrasikannya ke Next.js API Routes di Ujung depan/src/app/api
-    // atau mengkonfigurasi proyek backend terpisah di sini sebagai "serverless"
-    // tetapi ini lebih kompleks dan sebaiknya fokus pada frontend dulu.
   ]
 }
