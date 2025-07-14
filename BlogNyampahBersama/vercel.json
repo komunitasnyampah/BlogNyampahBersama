@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "name": "nama-proyek-nextjs-anda", // Misal: "NyampahBersamaWeb"
+      "name": "BlogNyampahBersama",
       "rootDirectory": "Ujung depan",
       "framework": "nextjs"
     }
